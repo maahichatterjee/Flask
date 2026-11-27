@@ -1,7 +1,7 @@
 
 
 git add .
-git commit -m "fifth commit"
+git commit -m "6th commit"
 git push -u origin main
 
 # create a file name gitinitial ---->sh gitinitial.sh 
